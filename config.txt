@@ -10,6 +10,7 @@
 "user": ["oOcYE50pEHztLYZfLj2M6wVOginE","oOcYE5_zJ2L9Xh_xG3nxpwbcNdwY"],
  
 # 信息配置
+"今天也要好好爱我呀"
 # 和风天气apikey
 "weather_key": "6ffd4cf022d84ddd8b23242770897b38",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
